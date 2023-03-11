@@ -14,4 +14,6 @@ Action Items
 
 •Create a remote repository
 
-•Push the local repository to company’s remote repositoryLink to download the code base
+•Push the local repository to company’s remote repository
+
+Link to download the code base
